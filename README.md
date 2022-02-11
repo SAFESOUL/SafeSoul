@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm Soul, a little ghost behind SafeSoul meme token.
 
 - 🔭 I’m currently working on NFT Marketplace and DEX
@@ -12,4 +11,4 @@ I'm Soul, a little ghost behind SafeSoul meme token.
 Token address: 8o4FYKQMarEG9JP5hzbWF16pDjNahVyubz25bYDZCfMq
 Blockchain: Solana
 Total Supply: 3B
--->
+
